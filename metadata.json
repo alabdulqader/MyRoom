@@ -1,0 +1,6 @@
+{
+  "name": "دفتر — مكتبي التنفيذي",
+  "description": "منصة تنفيذية متكاملة لإدارة الجهات والمشاريع والالتزامات والقرارات بالصوت والذكاء الاصطناعي للأندرويد والويب.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
